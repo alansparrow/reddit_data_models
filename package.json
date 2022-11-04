@@ -1,6 +1,6 @@
 {
   "name": "@trungtranwk/reddit_data_models",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Data models for reddit retriever system",
   "main": "RedditPost.js",
   "scripts": {
