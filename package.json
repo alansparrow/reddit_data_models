@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alansparrow/reddit_data_models/issues"
   },
-  "homepage": "https://github.com/alansparrow/reddit_data_models#readme"
+  "homepage": "https://github.com/alansparrow/reddit_data_models#readme",
+  "dependencies": {
+    "mongoose": "^6.7.1"
+  }
 }
