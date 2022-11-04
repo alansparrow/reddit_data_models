@@ -1,0 +1,19 @@
+{
+  "name": "@trungtranwk/reddit_data_models",
+  "version": "1.0.0",
+  "description": "Data models for reddit retriever system",
+  "main": "RedditPost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alansparrow/reddit_data_models.git"
+  },
+  "author": "trungtranwk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alansparrow/reddit_data_models/issues"
+  },
+  "homepage": "https://github.com/alansparrow/reddit_data_models#readme"
+}
